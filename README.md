@@ -4,6 +4,9 @@
 
 ## 项目预览链接
 http://mxzfun.com/videoAll/public/index.php
+### PC端
+
+![image-20251108214952846](http://qny.expressisland.cn/2025/image-20251108214952846.png)
 
 ## 项目文档
 http://mxzfun.xyz/index.php/archives/935/
